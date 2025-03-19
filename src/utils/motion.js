@@ -1,22 +1,18 @@
 export const transition = { type: "spring", duration: 0.8 };
 
-export const textVariant = (delay) => {
-  return {
-    hidden: {
-      y: -50,
-      opacity: 0,
+export const textVariant = () => ({
+  hidden: { opacity: 1, y: 0 }, // Ensure text is visible initially
+  show: {
+    opacity: 1,
+    y: 0,
+    transition: {
+      type: "spring",
+      duration: 1.2,
+      delay: 0.3,
     },
-    show: {
-      y: 0,
-      opacity: 1,
-      transition: {
-        type: "spring",
-        duration: 1.25,
-        delay: delay,
-      },
-    },
-  };
-};
+  },
+});
+
 
 export const fadeIn = (direction, type, delay, duration) => {
   return {

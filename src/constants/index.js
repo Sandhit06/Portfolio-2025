@@ -74,7 +74,6 @@ const experiences = [
       "Crafted and designed a set of reusable UI components following Flutter best practices. This reduced future designrevisions by an estimated 20% due to positive client feedback.",
       "Developed and tested over 1000 lines of Flutter and Dart code utilizing BLoC and Provider State Managementpatterns; this initiative accelerated deployment timelines while ensuring a seamless user experience on bothiOS and Android.",
       "Implemented robust login and sign-up features, independently overseeing the project from design to deployment.",
-      "Designed and integrated custom APIs for a web application, while maintaining and optimizing server-sidearchitecture with Firebase and MongoDB.",
       "Streamlined development and deployment processes by leveraging Jira & Agile methodologies."
     ],
   },
