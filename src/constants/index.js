@@ -122,7 +122,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Leaded the redesign of our flagship product, driving a 25% increase in user retention.",
+      "Led the redesign of our flagship product, resulting in a 25% increase in user retention.",
     name: "Aditya",
     designation: "CTO",
     company: "Zigy Co",

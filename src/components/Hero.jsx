@@ -43,6 +43,7 @@ const HeroLeftContainer = styled.div`
   width: 100%;
   order: 1;
   align-items: center; 
+  margin-top: 45px;  
   @media (max-width: 960px) {
     order: 2;
     margin-bottom: 30px;
@@ -58,7 +59,7 @@ const HeroRightContainer = styled.div`
   order: 2;
   display: flex;
   justify-content: end;
-  margin-top: 2px;
+  //margin-top: 25px;
   @media (max-width: 960px) {
     order: 1;
     display: flex;
