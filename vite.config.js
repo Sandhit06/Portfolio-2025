@@ -5,8 +5,8 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      react: require.resolve("react"),
-      "react/jsx-runtime": require.resolve("react/jsx-runtime"),
+      react: "react",
+      "react/jsx-runtime": "react/jsx-runtime",
     },
   },
   optimizeDeps: {
@@ -14,7 +14,7 @@ export default defineConfig({
   },
   build: {
     rollupOptions: {
-      external: ["react", "react-dom"],
+      external: [],
     },
   },
 });
