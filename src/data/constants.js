@@ -10,7 +10,7 @@ export const Bio = {
     "I'm a Final Year Student pursuing B.Tech in CS AI & ML from VIT Chennai. My area of expertise lies in Flutter & Native Android Development to create stunning and speedy cross-platform apps.",
   github: "https://github.com/Sandhit06",
   resume:
-    "https://drive.google.com/file/d/1kIU6PLX--8wkQv9OliDGcVP2zt4vmYt1/view?usp=drive_link",
+    "https://drive.google.com/file/d/1SYef5J5tPc6mdBhz2I939rmt25RI9s5h/view?usp=sharing",
   twitter: "https://x.com/sandhitk",
   insta: "https://www.instagram.com/rizdhitz/",
   linkedin: "https://www.linkedin.com/in/sandhit-karmakar/",
