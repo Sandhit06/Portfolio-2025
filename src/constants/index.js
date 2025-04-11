@@ -69,7 +69,7 @@ const experiences = [
     company_name: "Canverro",
     icon: canverro,
     iconBg: "#383E56",
-    date: "Aug 2023 - Dec 2023",
+    date: "Aug 2023 - Apr 2024",
     points: [
       "Crafted and designed a set of reusable UI components following Flutter best practices. This reduced future designrevisions by an estimated 20% due to positive client feedback.",
       "Developed and tested over 1000 lines of Flutter and Dart code utilizing BLoC and Provider State Managementpatterns; this initiative accelerated deployment timelines while ensuring a seamless user experience on bothiOS and Android.",
@@ -82,7 +82,7 @@ const experiences = [
     company_name: "Fossip",
     icon: fossip,
     iconBg: "#E6DEDD",
-    date: "Jun 2023 - Aug 2023",
+    date: "May 2023 - Aug 2023",
     points: [
       "Reduced app load time by 30% through collaboration with senior developers, optimizing scalability, and improvingcode quality via rigorous code reviews.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
