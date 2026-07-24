@@ -1,13 +1,13 @@
 export const Bio = {
   name: "Sandhit Karmakar",
   roles: [
-    "Flutter Developer",
     "Full Stack Developer",
     "Android Developer",
+    "Backend Developer",
     "Programmer",
   ],
   description:
-    "I'm a Final Year Student pursuing B.Tech in CS AI & ML from VIT Chennai. My area of expertise lies in Flutter & Native Android Development to create stunning and speedy cross-platform apps.",
+    "I'm a Tech Apprentice at Standard Chartered and a Computer Science (AI & ML) graduate from VIT Chennai. My area of expertise lies in Java, Springboot & Native Android Development to create stunning and speedy cross-platform apps.",
   github: "https://github.com/Sandhit06",
   resume:
     "https://drive.google.com/file/d/1BODZFawoOLGH89k0TrMUeF-fR1PKwExU/view?usp=sharing",
