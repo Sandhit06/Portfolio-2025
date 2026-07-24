@@ -47,11 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a Final Year Student persuing B.Tech in CS AI & ML from VIT
-        Chennai.A highly motivated and enthusiastic individual, passionate to
+        I'm a Tech Apprentice at Standard Chartered and a Computer Science (AI & ML) graduate from VIT Chennai.
+        A highly motivated and enthusiastic individual, passionate to
         work as a team as well as self driven enough to work alone and
         continuously working on my problem solving skills. My area of expertise
-        lies in Flutter & Native Android Development to create stunning and
+        lies in Java, Springboot, Native Android Development & Flutter to create stunning and
         speedy apps for both Android & IOS. Staying up-to-date with the latest
         trends in App development and dedicated to honing my skills .
       </motion.p>
