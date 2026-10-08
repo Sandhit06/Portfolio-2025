@@ -6,6 +6,7 @@ import {
   git,
   welth,
   canverro,
+  standardChartered,
   fossip,
   android,
   gdsc,
@@ -64,6 +65,20 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "Software Engineer",
+    company_name: "Standard Chartered GBS",
+    icon: standardChartered,
+    iconBg: "#FFFFFF",
+    date: "Sept 2025 - Sept 2026",
+    points: [
+      "Built the Data Quality Management & Analytics (DQMA) module end-to-end with Spring Boot, React.js and TypeScript, covering five rule categories, Draft-to-Review-to-Live workflows, monitoring and exception tracking. Reduced rule lifecycle management overhead by an estimated 30%, with automated and performance testing to improve scalability.",
+      "Developed Spring Boot APIs for template uploads and failed-record downloads in DQ Monitor, reducing upload time by 30%. Deployed and maintained production applications using PuTTY and WinSCP.",
+      "Architected the Real-Time Data Service (RTDS) ingestion monitoring dashboard with Dagre.js and seven parallel visualizations. Optimized concurrent API calls to reduce dashboard load time by approximately 40% while monitoring millions of daily financial messages.",
+      "Conducted System Integration Testing (SIT), resolved defects, and supported end-to-end delivery in the RTDS sub-squad using Azure DevOps for Git repositories, CI/CD pipelines and deployment automation.",
+      "Standardized over 100 REST API integration patterns with centralized JWT token injection, session-expiry handling and Axios request/response interceptors, reducing per-component boilerplate by approximately 60%.",
+    ],
+  },
   {
     title: "Flutter Developer",
     company_name: "Canverro",

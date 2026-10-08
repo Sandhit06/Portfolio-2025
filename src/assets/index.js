@@ -13,6 +13,7 @@ import typescript from "./tech/typescript.png";
 
 import fossip from "./company/fossip.jpg";
 import canverro from "./company/canverro.png";
+import standardChartered from "./company/standard-chartered.svg";
 import gdsc from "./company/gdsc.png";
 import tesla from "./company/tesla.png";
 import android from "./company/android.png";
@@ -42,6 +43,7 @@ export {
   git,
   fossip,
   canverro,
+  standardChartered,
   tesla,
   carrent,
   vibe,
