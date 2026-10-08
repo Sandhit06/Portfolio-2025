@@ -70,7 +70,7 @@ const experiences = [
     company_name: "Standard Chartered GBS",
     icon: standardChartered,
     iconBg: "#FFFFFF",
-    date: "Sept 2025 - Sept 2026",
+    date: "Sept 2025 - Present",
     points: [
       "Built the Data Quality Management & Analytics (DQMA) module end-to-end with Spring Boot, React.js and TypeScript, covering five rule categories, Draft-to-Review-to-Live workflows, monitoring and exception tracking. Reduced rule lifecycle management overhead by an estimated 30%, with automated and performance testing to improve scalability.",
       "Developed Spring Boot APIs for template uploads and failed-record downloads in DQ Monitor, reducing upload time by 30%. Deployed and maintained production applications using PuTTY and WinSCP.",
